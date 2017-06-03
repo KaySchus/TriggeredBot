@@ -8,7 +8,9 @@ from discord.ext import commands
 
 initial_extensions = [
     'extensions.rng',
-    'extensions.role'
+    'extensions.role',
+    'extensions.util',
+    'extensions.officer'
 ]
 
 description = "Triggered Guild Discord Bot"
